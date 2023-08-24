@@ -1,0 +1,1 @@
+We will be using the Microbit to read 2 x LDR sensors and then write some code to calculate the speed of an object, passing through these sensors.
