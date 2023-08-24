@@ -22,3 +22,4 @@ while True:
 
 speed = distance/t
 print(speed)
+#wihan
