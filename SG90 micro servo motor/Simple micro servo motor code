@@ -6,9 +6,12 @@ from microbit import *
 pin0.set_analog_period(20)
 
 while True: 
+  #Goes to the center
   pin0.write_analog(75)
   sleep(1000)
+  #Goes Right to the maximum
   pin0.write_analog(30)
   sleep(1000)
+  #Goes Left to the maximum
   pin0.write_analog(125)
   sleep(1000)
